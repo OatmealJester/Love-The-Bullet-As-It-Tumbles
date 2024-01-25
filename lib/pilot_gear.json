@@ -1,0 +1,26 @@
+[
+  {
+    "id": "qps_BroodSiblings_Molt",
+    "name": "Brood-Sibling's Molt (Pilot)",
+    "type": "Weapon",
+    "description": "Gifted by Terror for your assistance. Wield it in [remembrance/honour]",
+    "tags": [
+      {
+        "id": "tg_exotic"
+      }  
+    ],
+    "range": [
+      {
+        "type": "Threat",
+        "val": 1
+      }
+    ],
+    "damage": [
+      {
+        "type": "kinetic",
+        "val": 4
+      }
+    ],
+    "effect": "This weapon deals +2 bonus damage to characters that are SHREDDED or STUNNED. As a prerequisite to equip this item, a pilot must also have a Tertiary Arm or similar Pilot Gear equipt."      
+  }
+]
