@@ -7,29 +7,29 @@
     "type": "Melee",
     "sp": 2,      
     "range": [
-      {
-        "type": "Threat",
-        "val": 2
-      }
+        {
+            "type": "Threat",
+            "val": 2
+        }
     ],
     "damage": [
       {
-        "type": "Kinetic",
-        "val": "1D6"
+          "type": "Kinetic",
+          "val": "1d6"
       }
     ],
-    "effect": "This weapon cannot be destroyed. You gain the \"Bladebond Mark\" Quick Action, and \"Prime's Guard\" Reaction while equipped.".,
+    "effect": "This weapon cannot be destroyed. You gain the \"Bladebond Mark\" Quick Action, and \"Prime's Guard\" Reaction while equipped.",
     "actions": [
-    {
-    "name": "Bladebond Mark",
-    "activation": "Quick",
-    "detail": "Choose an allied character in line of sight, giving them a Bladebond Mark that last until the end of the scene, or until you take this action again. While they are marked in this way, you gain the \"Prime's Guard\" Reaction."
-          },
-    {
-    "name": "Prime's Guard",
-    "activation": "Reaction",
-    "trigger":"A hostile character in line of sight and in range of the Ancient Prime's Blader makes an attack targeting an ally that has a Bladebond Mark.",
-    "effect":"The ally gains resistance to the triggering attack. Make an attack with this weapon against the triggering hostile character. This reaction resolves before the triggering attack.",
+        {
+            "name": "Bladebond Mark",
+            "activation": "Quick",
+            "detail": "Choose an allied character in line of sight, giving them a Bladebond Mark that last until the end of the scene, or until you take this action again. While they are marked in this way, you gain the \"Prime's Guard\" Reaction."
+        },
+        {
+            "name": "Prime's Guard",
+            "activation": "Reaction",
+            "trigger":"A hostile character in line of sight and in range of the Ancient Prime's Blader makes an attack targeting an ally that has a Bladebond Mark.",
+            "detail":"The ally gains resistance to the triggering attack. Make an attack with this weapon against the triggering hostile character. This reaction resolves before the triggering attack."
           }
     ],     
     "description": "Recovered from a previously hidden burial site recently exposed during the cataclysmic SM-D strike against Hivehome, this weapon is an incredible archaeological discovery as well as a peerless example of long forgotten Egregorian weapons forging techniques. Preliminary material analysis of the blade reveals an unusual composition consisting of traditional metallurgical alloys interwoven with long-chain keratin polymers, granting the weapon both its incredible durability as well as its unique iridescent sheen. The sword, formerly belonging to a member of the Egregorian warrior caste-strain known as Primaries or Primes, is also a functional osteomemetic with a series of recorded Witness subjectivities engraved along the length of the blade itself. It is in all respects a monumentally valuable relic of the past, a tangible expression of a people's history and will to fight made manifest.",

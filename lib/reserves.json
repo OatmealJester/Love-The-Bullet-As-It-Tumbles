@@ -1,0 +1,9 @@
+[
+    {
+      "id": "qps_SympatheticSystemsInhibitor",
+      "name": "Sympathetic Systems Inhibitor",
+      "type": "Tactical",
+      "label": "Tactical",
+      "description": "You may spend this reserve at the start of a round during any combat scene. All non-allied characters in the scene must make a Systems Check. On Failure, affected characters are Impaired until the end of their next turn. Once used in this way, the resource is destroyed."
+    }
+]
