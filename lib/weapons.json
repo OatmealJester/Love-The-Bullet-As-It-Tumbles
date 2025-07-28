@@ -38,6 +38,9 @@
         "id": "tg_exotic"
       },
       {
+        "id": "tg_unique"
+      },
+      {
         "id": "tg_ap"
       },
       {
@@ -45,5 +48,46 @@
       }    
     ],
     "license_id": ""
+  },
+    
+  {
+    "id": "qps_Tellan_Relic_Axe",
+    "name": "Tellan Relic Axe",
+    "source": "EXOTIC",
+    "mount": "Main",
+    "type": "Melee",      
+    "range": [
+        {
+            "type": "Threat",
+            "val": 3
+        },
+        {
+            "type": "Thrown",
+            "val": 4
+        }
+    ],
+    "damage": [
+      {
+          "type": "Kinetic",
+          "val": "1d6"
+      },
+      {
+          "type": "Energy",
+          "val": "1"
+      }
+    ],
+    "effect": "When thrown, this weapon automatically returns to the user, and does not need to be picked up to be used again.",
+    "on_crit": "Target becomes Shredded until the end of their next turn.",
+    "description": "“Through THEIR mercy came Our deliverance, Through THEIR tools came Our justice, Through Our path cut anew, comes THEIR return.” - Excerpt, untitled poem from Teachings of St Tellus Vol IV, circa 4824u",
+    "tags": [
+      {
+        "id": "tg_exotic"
+      },
+      {
+        "id": "tg_unique"
+      }
+    ],
+    "license_id": ""
   }
+
 ]

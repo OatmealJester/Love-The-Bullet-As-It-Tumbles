@@ -1,0 +1,25 @@
+[
+  {
+    "id": "qps_HALO_PROTOCOL",
+    "name": "HALO_PROTOCOL()",
+    "source": "EXOTIC",
+    "sp":3,
+    "effect":"Overshield gained from HALO_PROTOCOL() may stack with itself, but not Overshield from any other source.",
+    "actions": [
+      {
+        "name": "Watchful Gaze",
+        "activation": "Protocol",
+        "detail": "You gain 3 Overshield, and Allied Characters within Sensors and Line Of Sight gain 2 Overshield."
+      }
+    ],
+    "description": "“Our greatest shield is the righteousness of our Mission, for through His message, shall God’s will be known.” - Excerpt, Teachings of St Tellus Vol XIV, circa 5011u",
+    "tags": [
+      {
+        "id": "tg_exotic"
+      },
+      {
+        "id": "tg_unique"
+      }
+    "license_id": ""
+  }
+]
