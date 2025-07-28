@@ -3,8 +3,9 @@
     "id": "qps_HALO_PROTOCOL",
     "name": "HALO_PROTOCOL()",
     "source": "EXOTIC",
+    "type":"AI",
     "sp":3,
-    "effect":"Overshield gained from HALO_PROTOCOL() may stack with itself, but not Overshield from any other source.",
+    "effect":"Overshield gained from HALO_PROTOCOL() may stack with itself, but not Overshield from any other source. HALO_PROTOCOL() does not count towards your AI limit.",
     "actions": [
       {
         "name": "Watchful Gaze",
@@ -19,7 +20,11 @@
       },
       {
         "id": "tg_unique"
+      },
+      {
+        "id": "tg_ai"
       }
+    ],
     "license_id": ""
   }
 ]
